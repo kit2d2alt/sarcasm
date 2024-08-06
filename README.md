@@ -6,6 +6,16 @@ Makes text appear "sarcastic".
 make sarcasm
 ./sarcasm
 ```
+# sarcasm.py
+### running
+```bash
+python sarcasm.py
+```
+# sarcasm.html
+### running
+```bash
+python3 -m http.server
+```
 ## Bio:
 
 # $\color{#5865F2}{\textsf{Discord}}$ `kit2d2`

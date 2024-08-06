@@ -13,7 +13,7 @@ python sarcasm.py
 ```
 # sarcasm.js
 ### running
-just open in browser
+just open in browser or use something like https://playcode.io/new
 ## Bio:
 
 # $\color{#5865F2}{\textsf{Discord}}$ `kit2d2`

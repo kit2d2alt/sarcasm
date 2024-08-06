@@ -11,11 +11,9 @@ make sarcasm
 ```bash
 python sarcasm.py
 ```
-# sarcasm.html
+# sarcasm.js
 ### running
-```bash
-python3 -m http.server
-```
+just open in browser
 ## Bio:
 
 # $\color{#5865F2}{\textsf{Discord}}$ `kit2d2`
